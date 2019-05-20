@@ -6,7 +6,7 @@ import org.seckill.service.impl.HanlpserviceImpl;
 
 public class Test {
     public static void main(String args[]) {
-//        HanlpserviceImpl hanlpservice = new HanlpserviceImpl();
+        HanlpserviceImpl hanlpservice = new HanlpserviceImpl();
 ////        System.out.println(hanlpservice.useCRFLexicalAnalyzer("s的风格更"));
 //        Long startTime = System.currentTimeMillis();
 //        for (int i = 0; i < 100000; i++) {
